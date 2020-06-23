@@ -19,3 +19,5 @@ Objectives
 
 ● Interface with Blynk App: All the data collected with the help of sensors would be sent to Blynk App. The App will also help the guardian/caretaker/relative of the Patients to monitor the health of the Patients remotely.
 
+Prototype Architecture
+https://github.com/MontyGhost/HealthEcos/issues/1#issue-644079833
