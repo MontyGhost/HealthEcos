@@ -19,14 +19,3 @@ Objectives
 
 ● Interface with Blynk App: All the data collected with the help of sensors would be sent to Blynk App. The App will also help the guardian/caretaker/relative of the Patients to monitor the health of the Patients remotely.
 
-HARDWARE DETAILS
-
-Infineon DPS310 : A miniaturized digital barometric pressure sensor that offers high accuracy, low current consumption.
-
-Pulse Sensor - Providing the pulse rate reading
-
-NodeMCU - Microcontroller with WiFi connection capability
-
-Amazon Echo Dot
-
-Servo Motor
