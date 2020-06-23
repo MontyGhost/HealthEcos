@@ -1,0 +1,13 @@
+A real time health monitoring system for the people especially elderly ones.
+The prototype is developed to provide an ecosystem for health monitoring
+including the medication management to continuous monitoring of vitals like
+pulse and temperature and fall detection. Notifications are immediately sent
+to alert the user and the patient if any incident happens.
+The prototype is realized using esp8266 based Wi-Fi module NodeMCU (12e),
+DSP310 pressure sensor, pulse sensor, servo motor and Amazon echo dot.
+Blynk app is used for sending the notifications and monitoring the data from
+band and pill dispenser.
+Alexa skills Kit is used for developing the custom alexa skill for the dispenser
+and AWS Lambda is used in backend for the processing of data from skills
+services and coneecting it to Blynk server, enabling the control of dispenser
+from Alexa device.
